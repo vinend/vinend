@@ -114,7 +114,7 @@ I'm a passionate **Computer Engineering student** at **Universitas Indonesia** (
 | 📧 Email | vinendsocials@gmail.com |
 | 📱 Phone | +62 816-1767-8377 |
 | 📍 Location | Jakarta, Indonesia |
-| 💼 LinkedIn | [Connect with me](https://linkedin.com/in/your-profile) |
+| 💼 LinkedIn | [Connect with me]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/andi-muhammad-alvin-farhansyah-97b05a28b/)) |
   
 </div>
 
