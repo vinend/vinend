@@ -1,30 +1,30 @@
-# 👨‍💻 Andi Muhammad Alvin Farhansyah
+# Andi Muhammad Alvin Farhansyah
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Computer+Engineering+Student;Robotics+Enthusiast;Full-Stack+Developer;Autonomous+Systems+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Computer+Engineering+Student;Robotics+Enthusiast;Full-Stack+Developer;Autonomous+Systems+Developer" alt="Typing SVG" />
 </div>
 
-## 🎓 About Me
+## About Me
 
 > *"Building innovative solutions at the intersection of robotics and software engineering"*
 
 I'm a passionate **Computer Engineering student** at **Universitas Indonesia** (GPA: **3.85/4.00**), focusing on robotics, autonomous systems, and full-stack development. Currently working on cutting-edge **VTOL Drone Systems** with ROS2 and PX4 integration.
 
-- 🔬 Vice Deputy of Programming at **AUAV Team**, Tim Robotika UI
-- 🚀 Specialized in autonomous systems and robotics development
-- 💡 Strong problem-solving skills with a focus on innovative solutions
-- 🌏 Fluent in English (637 on UI's EPT, TOEFL equivalent)
-- 📍 Based in Jakarta, Indonesia
+- Vice Deputy of Programming at **AUAV Team**, Tim Robotika UI
+- Specialized in autonomous systems and robotics development
+- Strong problem-solving skills with a focus on innovative solutions
+- Fluent in English (637 on UI's EPT, TOEFL equivalent)
+- Based in Jakarta, Indonesia
 
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/vinend?style=social)](https://github.com/vinend)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-muhammad-alvin-farhansyah-97b05a28b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinendsocials@gmail.com)
   
 </div>
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
 ### Programming Languages
 <p align="left">
@@ -63,69 +63,69 @@ I'm a passionate **Computer Engineering student** at **Universitas Indonesia** (
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### VTOL UAV with Autonomous Navigation System
 > *Advanced drone system with autonomous capabilities*
 
-- 🛠️ **Technical Leadership**: Vice Deputy of Programming at AUAV Team
-- 🔧 **Key Contributions**:
+- **Technical Leadership**: Vice Deputy of Programming at AUAV Team
+- **Key Contributions**:
   - Developed web interface for real-time drone monitoring and control
   - Implemented PX4-ROS2 integration for advanced flight control
   - Created autonomous waypoint navigation system
   - Designed fail-safe mechanisms for emergency scenarios
-- 🏆 **Achievement**: Finalist in KRTI 2024 (National Flying Robot Competition)
-- 💻 **Tech Stack**: ROS2, PX4, C++, Python, React, WebSocket
+- **Achievement**: Finalist in KRTI 2024 (National Flying Robot Competition)
+- **Tech Stack**: ROS2, PX4, C++, Python, React, WebSocket
 
 ### Multi-Joint Robotic Arm Controller
 > *Award-winning Arduino-based robotic system*
 
-- 🎯 **Achievement**: 3rd Place in Technoskill Arduino Robotics Competition
-- 🔧 **Key Features**:
+- **Achievement**: 3rd Place in Technoskill Arduino Robotics Competition
+- **Key Features**:
   - Multi-axis control system with inverse kinematics
   - Real-time position feedback
   - Custom GUI for arm control
-- 💻 **Tech Stack**: Arduino, C++, Python
+- **Tech Stack**: Arduino, C++, Python
 
-## 🏆 Achievements & Certifications
+## Achievements
 
 ### Academic Excellence
-- 🎓 **GPA**: 3.85/4.00 at Universitas Indonesia
-- 🌐 **English Proficiency**: 637 on UI's EPT (TOEFL equivalent)
+- **GPA**: 3.85/4.00 at Universitas Indonesia
+- **English Proficiency**: 637 on UI's EPT (TOEFL equivalent)
 
 ### Competitions
-- 🥉 **3rd Place** - Technoskill Arduino Robotics Competition (2024)
-- 🏆 **Finalist** - KRTI 2024 (Kompetisi Robot Terbang Indonesia)
-- 🔥 **Active Member** - Tim Robotika Universitas Indonesia
+- **3rd Place** - Technoskill Arduino Robotics Competition (2024)
+- **Finalist** - KRTI 2024 (Kompetisi Robot Terbang Indonesia)
+- **Active Member** - Tim Robotika Universitas Indonesia
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinend&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinend&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 📫 Get in Touch
+## Contact Information
 
 <div align="center">
   
-| Contact Method | Details |
-|---------------|---------|
-| 📧 Email | vinendsocials@gmail.com |
-| 📱 Phone | +62 816-1767-8377 |
-| 📍 Location | Jakarta, Indonesia |
-| 💼 LinkedIn | [Connect with me](https://www.linkedin.com/in/andi-muhammad-alvin-farhansyah-97b05a28b/) |
+| Method | Details |
+|--------|---------|
+| Email | vinendsocials@gmail.com |
+| Phone | +62 816-1767-8377 |
+| Location | Jakarta, Indonesia |
+| LinkedIn | [Connect with me](https://linkedin.com/in/your-profile) |
   
 </div>
 
-## 📄 Curriculum Vitae
+## Curriculum Vitae
 
 For a detailed overview of my experience and qualifications, please check out my [CV](./CV%20Andi%20Muhammad%20Alvin%20Farhansyah.pdf).
 
 ---
 
 <div align="center">
-  <h3>💡 Open to Collaboration and New Opportunities! 💡</h3>
+  <h3>Open to Collaboration and New Opportunities</h3>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=vinend&color=brightgreen)
 </div>
