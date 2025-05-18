@@ -19,7 +19,7 @@ I'm a passionate **Computer Engineering student** at **Universitas Indonesia** (
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/vinend?style=social)](https://github.com/vinend)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-muhammad-alvin-farhansyah-97b05a28b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinendsocials@gmail.com)
   
 </div>
