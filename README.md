@@ -1,4 +1,4 @@
-# Andi Muhammad Alvin Farhansyah
+# Snivysaur
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Computer+Engineering+Student;Robotics+Enthusiast;Full-Stack+Developer;Autonomous+Systems+Developer" alt="Typing SVG" />
